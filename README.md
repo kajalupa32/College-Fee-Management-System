@@ -19,5 +19,5 @@ A full-stack Java Swing desktop application for managing college student fees, r
 - `src/` - Core Java source code compilation classes.
 - `college_fee.sql` - Complete database schema script for rapid system replication.
 
-## 👤 Author
-- Developed by [Your Name]
+👤 Author
+- Developed by Kajal
