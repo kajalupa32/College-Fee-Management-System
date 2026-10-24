@@ -5,7 +5,7 @@ import javax.swing.table.DefaultTableModel;
 public class DB {
     static final String URL  = "jdbc:mysql://localhost:3306/college_fee";
     static final String USER = "root";
-    static final String PASS = "root";
+    static final String PASS = "your password";
 
     public static Connection get() throws SQLException {
         return DriverManager.getConnection(URL, USER, PASS);
